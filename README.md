@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Parven05/qr-code-component](https://your-solution-url.com)
-- Live Site URL: [https://parven05.github.io/qr-code-component](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-css-flex-HUpwXovAmY)
+- Live Site URL: [https://parven05.github.io/qr-code-component/)
 
 ## My process
 
