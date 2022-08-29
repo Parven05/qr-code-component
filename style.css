@@ -13,20 +13,10 @@ body {
   align-items: center;
 }
 
-.main-container {
-padding-top: 25px;
-padding-left: 10px;
-padding-right: 10px;
-/* background-color: hsl(0, 0%, 100%);
-border: 2px solid black; */
-flex: 1;
-
-}
-
 .sub-container {
-  margin-top: 35%;
+  margin-top: 15%;
   border: none;
-  width: 50%;
+  width: 55%;
   height: 50%;
   padding-top: 25px;
   padding-bottom: 25px;
@@ -37,10 +27,20 @@ flex: 1;
 .qr-code {
   width: 90%;
   height: auto;
+  border-radius: 20px;
 }
 
 .main-title {
-  /* font-family: VT323, monospace;
-  font-weight: 400, 700;
-  font-size: 18px; */
+  font-family: Outfit, sans-serif;
+  font-size: 25px;
+  font-weight: 900;
+  color:hsl(218, 44%, 22%);
+  /* width: 100%;
+  height: auto; */
+}
+
+.sub-tittle {
+  font-family: Outfit, sans-serif;
+  width: 75%;
+  color:hsl(220, 15%, 55%);
 }
