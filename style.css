@@ -1,0 +1,39 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+padding-top: 25px;
+padding-left: 10px;
+padding-right: 10px;
+/* background-color: hsl(0, 0%, 100%);
+border: 2px solid black; */
+flex: 1;
+
+}
+
+.sub-container {
+  margin-top: 35%;
+  border: none;
+  width: 50%;
+  height: 50%;
+  padding-top: 25px;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.qr-code {
+  width: 90%;
+  height: auto;
+
+}
