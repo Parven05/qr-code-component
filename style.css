@@ -29,11 +29,18 @@ flex: 1;
   width: 50%;
   height: 50%;
   padding-top: 25px;
+  padding-bottom: 25px;
   background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
 }
 
 .qr-code {
   width: 90%;
   height: auto;
+}
 
+.main-title {
+  /* font-family: VT323, monospace;
+  font-weight: 400, 700;
+  font-size: 18px; */
 }
