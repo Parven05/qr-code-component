@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -58,14 +56,10 @@ body {
 
 I think i still struggle with flexbox box and grid properties.So i need to do more scratch works to improve my CSS skills
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [resource 1](https://www.theodinproject.com/) - This helped me for refresh some CSS topics. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.internetingishard.com) - This is an amazing website which helped me finally understand some CSS properties. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [resource 2](https://www.internetingishard.com) - This is an amazing website which helped me finally understand some CSS properties. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
