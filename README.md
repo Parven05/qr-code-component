@@ -65,4 +65,4 @@ I think i still struggle with flexbox box and grid properties.So i need to do mo
 
 - Website - [Parven](https://github.com/Parven05)
 - Frontend Mentor - [@parven](https://www.frontendmentor.io/profile/Parven05)
-- Twitter - [@Parvenn05](https://www.twitter.com/yourusername)
+- Twitter - [@Parvenn05](https://twitter.com/Parvenn05?t=uEzaVyT2zAp4YEseFwTASg&s=09)
