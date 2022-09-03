@@ -37,8 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 From this i learned how to use flexbox with div. It make me more understand in that CSS flexbox topic even more
 
-To see how you can add code snippets, see below:
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
